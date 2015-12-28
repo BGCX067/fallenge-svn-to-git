@@ -1,0 +1,6 @@
+To install the templates simply copy 
+"FallenGEGameTemplate.zip" into your visual 
+studio "Templates\ProjectTemplates" folder
+and "FallenGE Screen.zip" into the
+"Templates\ItemTemplates" and then restart
+Visual Studio.

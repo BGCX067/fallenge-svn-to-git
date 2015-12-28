@@ -1,0 +1,20 @@
+#labels Featured,Phase-Deploy
+= An Introduction =
+FallenGE (Game Engine) is a complete solution for witting games in c#. The engine makes use of various free libraries, such as Tao, and combines them together into a nice neat package to make writing a game as easy as possible.
+
+==Features==
+  * A simple interface for creating games.
+  * Rendering engine written in [http://www.opengl.org/ OpenGL].
+  * Sprite management.
+  * Audio playback via [http://www.openal.org/ OpenAL].
+  * File management via [http://icculus.org/physfs/ PhysFS].
+  * Supports all image formats supported by [http://openil.sourceforge.net/ DevIL].
+  * Mouse/Keyboard Input support.
+  * Basic Shader support.
+  * Physics support via [http://physics2d.googlepages.com/ Physics2D] (Work in Progress).
+  * A logical game creation process which lets you create various screens which your game may change between.
+
+== What you will need ==
+To compile the source code you will need:
+  * The [http://www.taoframework.com tao framework].
+  * [http://physics2d.googlepages.com/ Physics2D].
